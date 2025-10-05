@@ -1,6 +1,8 @@
+## 😸 Kufre Ebebe
 
+  <h4 align="left">Engneer at alttain.com</h4>
 
-<h1 align="center">👋 Hi, I'm KUFRE</h1>
+  
 <h3 align="center">☁️ Cloud / DevOps Engineer | 🤖 AI Automation Builder | 📱 Mobile App Innovator</h3>
 
 ---
@@ -65,25 +67,10 @@ Beyond cloud engineering, I also develop workflows **AI-powered automations for 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-### 🧩 Top Languages
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 🌐 Connect With Me
-
+<a href"https://www.facebook.com/jje/jw">
+<img src
 
 ### ⚡ Quote
 > “Automate everything that can be automated — scale what truly matters.”
