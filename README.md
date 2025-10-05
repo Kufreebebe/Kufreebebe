@@ -29,10 +29,11 @@ Beyond cloud engineering, I also develop workflows **AI-powered automations for 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
 
 #### ☁️ Cloud + Networking
-- AWS Cloud Infrastructure, CLI & SDKs  
+- AWS Cloud Infrastructure, CLI & SDKs
+-Serverless architectures with AWS Lambda and API Gateway
 - Networking: VPCs, Subnets, Routing, Security Groups  
 - Infrastructure as Code (Terraform)  
 - CI/CD Pipelines (Jenkins, GitLab CI)
@@ -82,19 +83,7 @@ Beyond cloud engineering, I also develop workflows **AI-powered automations for 
 ---
 
 ### 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
 
----
 
 ### ⚡ Quote
 > “Automate everything that can be automated — scale what truly matters.”
