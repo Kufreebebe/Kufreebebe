@@ -52,7 +52,7 @@ Beyond cloud engineering, I also develop workflows **AI-powered automations for 
 
 #### 🤖 AI & Automation (Part-time)
 - AI-driven workflow automation for **e-commerce** & small businesses  
-- **No-code tools** (Zapier, n8n, Make) + Cloud APIs  
+- **No-code tools** n8n + Cloud APIs  
 - AI-integrated task pipelines & data automation  
 ---
 
