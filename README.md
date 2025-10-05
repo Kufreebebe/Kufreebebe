@@ -11,7 +11,7 @@
 ---
 
 ### 💡 About Me
-Intermediate **Cloud/DevOps Engineer** passionate about creating scalable, secure, and automated cloud infrastructures.  
+🚀Intermediate **Cloud/DevOps Engineer** focused on building scalable, secure, and automated cloud infrastructures..  
 I merge **Cloud/DevOps**, and **mobile app development** to build systems that are both powerful and accessible.  
 Beyond cloud engineering, I also develop workflows **AI-powered automations for small businesses** and **mobile Cloud/DevOps** using React Native (integrating the cloud).
 
