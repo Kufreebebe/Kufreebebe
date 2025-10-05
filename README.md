@@ -1,9 +1,12 @@
 ## 😸 Kufre Ebebe
 
-  <h4 align="left">Engneer at alttain.com</h4>
+<h4 align="left">
+  Cloud Engineer at 
+  <a href="https://alttain.com" target="_blank">🌐 <b>alttain.com</b></a>
+</h4>
 
   ---
-<h3 align="center">☁️ Cloud / DevOps Engineer | 🤖 AI Automation Builder(WorkFlow) | 📱 Mobile App Innovator</h3>
+<h3 align="center">☁️ Cloud / DevOps Engineer | 🤖 AI Automation Builder(WorkFlows) | 📱 Mobile App Innovator</h3>
 
 ---
 
@@ -13,36 +16,7 @@ I merge **Cloud/DevOps**, and **mobile app development** to build systems that a
 Beyond cloud engineering, I also develop workflows **AI-powered automations for small businesses** and **mobile Cloud/DevOps** using React Native (integrating the cloud).
 
 
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
 
-  <!-- Instagram -->
-  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-
-  <!-- Facebook -->
-  <a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook"/>
-  </a>
-
-  <!-- TikTok -->
-  <a href="https://tiktok.com/@YOUR-TIKTOK" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/tiktok.png" alt="TikTok"/>
-  </a>
-
-  <!-- Twitter / X -->
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"/>
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:yourname@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail"/>
-  </a>
 
 ---
 
@@ -101,8 +75,36 @@ Beyond cloud engineering, I also develop workflows **AI-powered automations for 
 
 
 ### 🌐 Connect With Me
-<a href"https://www.facebook.com/jje/jw">
-<img src
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook"/>
+  </a>
+
+  <!-- TikTok -->
+  <a href="https://tiktok.com/@YOUR-TIKTOK" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/tiktok.png" alt="TikTok"/>
+  </a>
+
+  <!-- Twitter / X -->
+  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:yourname@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
 
 ### ⚡ Quote
 > “Automate everything that can be automated — scale what truly matters.”
